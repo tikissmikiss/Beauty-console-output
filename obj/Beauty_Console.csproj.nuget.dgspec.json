@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tikiss\\OneDrive\\Codigo Programacion\\Beauty_Console\\CSharp\\Beauty_Console.csproj": {}
+    "D:\\joseh\\OneDrive\\Codigo Programacion\\Beauty_Console\\CSharp\\Beauty_Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tikiss\\OneDrive\\Codigo Programacion\\Beauty_Console\\CSharp\\Beauty_Console.csproj": {
+    "D:\\joseh\\OneDrive\\Codigo Programacion\\Beauty_Console\\CSharp\\Beauty_Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tikiss\\OneDrive\\Codigo Programacion\\Beauty_Console\\CSharp\\Beauty_Console.csproj",
+        "projectUniqueName": "D:\\joseh\\OneDrive\\Codigo Programacion\\Beauty_Console\\CSharp\\Beauty_Console.csproj",
         "projectName": "Beauty_Console",
-        "projectPath": "C:\\Users\\tikiss\\OneDrive\\Codigo Programacion\\Beauty_Console\\CSharp\\Beauty_Console.csproj",
-        "packagesPath": "C:\\Users\\tikiss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tikiss\\OneDrive\\Codigo Programacion\\Beauty_Console\\CSharp\\obj\\",
+        "projectPath": "D:\\joseh\\OneDrive\\Codigo Programacion\\Beauty_Console\\CSharp\\Beauty_Console.csproj",
+        "packagesPath": "C:\\Users\\joseh\\.nuget\\packages\\",
+        "outputPath": "D:\\joseh\\OneDrive\\Codigo Programacion\\Beauty_Console\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tikiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joseh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
